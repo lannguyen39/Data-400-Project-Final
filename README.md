@@ -7,13 +7,12 @@
 
 Our group wanted to know whether the top 10000 anime has a trend in why some anime has a higher scoring than others, while trying to see if those factors predict can an anime has a higher score.
 
-Here is what we did. 
 
 ## Dataset ##
 The dataset is scraped from the website https://myanimelist.net/topanime.php. Dataset contain the top 10000 anime ranked on the 30th of October, 2024.
 
 
-## Summary
+## II. Summary
 
 ### Numerical variable:
 - Episode has no correlation with score or ranking.
