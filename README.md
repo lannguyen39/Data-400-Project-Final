@@ -1,8 +1,8 @@
 # Data-400-Project-Final
 
-# FROM STUDIO TO SCREEN
-## Visualizing Anime Trends and Explaining the Unexpected
-### Lan Nguyen and Faye Le
+# FROM STUDIO TO SCREEN:
+Visualizing Anime Trends and Explaining the Unexpected
+### By Lan Nguyen and Faye Le
 
 ## I. Introduction
 
